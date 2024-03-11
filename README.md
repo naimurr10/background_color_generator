@@ -4,7 +4,7 @@ This is a simple web application that allows users to generate CSS linear-gradie
 
 ## Demo
 
-You can see a live demo of the application [here](#).
+You can see a live demo of the application [here](https://naimurr10.github.io/background_color_generator/).
 
 ## Features
 
@@ -15,7 +15,7 @@ You can see a live demo of the application [here](#).
 
 ## Usage
 
-1. Open the [Background Color Generator](#) application.
+1. Open the [Background Color Generator](https://naimurr10.github.io/background_color_generator/) application.
 2. Select the desired colors using the color pickers.
 3. Click the "RGB" button to generate the code in RGB format or the "Hex" button to generate it in hexadecimal format.
 4. Copy the generated code and use it in your CSS files.
